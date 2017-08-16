@@ -51,8 +51,6 @@ module.exports = {
             PublicJS : path.join(__dirname, "./build/Public/js/"),
             PublicCSS : path.join(__dirname, "./build/Public/css/"),
             PublicLESS : path.join(__dirname, "./build/Public/css/less/"),
-            PUMP : path.join(__dirname, "./build/Public/js/ump.js"),
-            PHN : path.join(__dirname, "./build/Public/js/HN.js")
         }
     }
 }
